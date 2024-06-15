@@ -209,11 +209,12 @@ h2 {
 
   #right-img {
     width: 330px;
-    margin: 10px auto;
+    margin: 10px 0;
     height: 250px;
   }
   #para{
-  padding: 8px;
+  padding: 5px;
+  margin: 0;
 }
   button {
     width: 350px;
